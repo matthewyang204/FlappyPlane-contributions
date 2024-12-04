@@ -52,7 +52,7 @@ class FlappyPlane:
             await self.game_over()
 
     async def splash(self):
-        """Shows welcome splash screen animation of flappy bird"""
+        """Shows welcome splash screen animation of flappy plane"""
 
         self.player.set_mode(PlayerMode.SHM)
 
