@@ -2,7 +2,7 @@
 name = "flappybird"
 authors = [{name = "Sourabh Verma", email = "email@sourabh.dev"}]
 version = "1.0.0"
-description = "Flappy Bird in Pygame"
+description = "Flappy Plane in Pygame"
 requires-python = ">=3.9,<4"
 dependencies = [
     "pygame == 2.4.0"
