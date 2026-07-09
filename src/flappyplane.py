@@ -32,7 +32,7 @@ class FlappyPlane:
         self.config = GameConfig(
             screen=screen,
             clock=pygame.time.Clock(),
-            fps=30,
+            fps=1000000000,
             window=window,
             images=images,
             sounds=Sounds(),
